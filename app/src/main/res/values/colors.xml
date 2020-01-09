@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="app_skin_black">#FFFFFFFF</color>
+    <color name="hintDialog_title_color">#000000</color>  <!--提示框标题颜色-->
+    <color name="hintDialog_content_color">#404040</color> <!--提示框内容颜色-->
+    <color name="hintDialog_cancel_color">#2196f3</color> <!--提示框取消按钮颜色-->
+    <color name="hintDialog_confirm_color">#2196f3</color> <!--提示框确定按钮颜色-->
+    <color name="hintDialog_xian_color">#f5f5f5</color> <!--提示框分割线颜色-->
+</resources>
